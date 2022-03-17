@@ -1,0 +1,6 @@
+D:\libComunes\libComunes\obj\Debug\libComunes.csproj.AssemblyReference.cache
+D:\libComunes\libComunes\obj\Debug\libComunes.csproj.CoreCompileInputs.cache
+D:\libComunes\libComunes\bin\Debug\libComunes.dll
+D:\libComunes\libComunes\bin\Debug\libComunes.pdb
+D:\libComunes\libComunes\obj\Debug\libComunes.dll
+D:\libComunes\libComunes\obj\Debug\libComunes.pdb

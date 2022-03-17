@@ -1,0 +1,8 @@
+D:\Programacion_Software\Clases\libProgramacionSoftware\bin\Debug\libProgramacionSoftware.pdb
+D:\Programacion_Software\Clases\libProgramacionSoftware\obj\Debug\libProgramacionSoftware.csproj.AssemblyReference.cache
+D:\Programacion_Software\Clases\libProgramacionSoftware\obj\Debug\libProgramacionSoftware.csproj.CoreCompileInputs.cache
+D:\Programacion_Software\Clases\libProgramacionSoftware\obj\Debug\libProgramacionSoftware.dll
+D:\Programacion_Software\Clases\libProgramacionSoftware\obj\Debug\libProgramacionSoftware.pdb
+D:\Programacion_Software\Clases\libProgramacionSoftware\bin\Debug\libComunes.dll
+D:\Programacion_Software\Clases\libProgramacionSoftware\bin\Debug\libComunes.pdb
+D:\Programacion_Software\Clases\libProgramacionSoftware\obj\Debug\libProgramacionSoftware.csproj.CopyComplete
